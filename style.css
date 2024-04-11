@@ -1,3 +1,14 @@
 .cabeçalho{background-color: rgb(240, 67, 67);color: #ffffff; display:flex;justify-content:space-around;} 
 .imagem-logo{width: 20%}
 .cabeçalho-lista-item{display:inline-block;margin:0 16px; font-size: ;}
+.cabeçalho-lista{display: inline-block;}
+.modas-feminina-masculina-imagem{width: 25%,}
+.roupas{
+    background-image: linear-gradientrgb(201, 150, 150), rgb(221, 163, 163);
+    color: #ec3232;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    padding: 24px 0;}
+.loja-de-roupas-div-conteudo {width: 45%;}
+.loja-de-roupas-titulo{padding: 30px 0;}
