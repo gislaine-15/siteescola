@@ -23,7 +23,7 @@ padding: 16px 0;}
 
 .vestidos-titulo{
     text-align: center;
-    padding: 50pc 0;
+    padding: 50px 0;
     color: #f7f3f3;
 }
 
@@ -33,3 +33,8 @@ padding: 16px 0;}
 }
 
 .vestidos-nome {color: #ffffffc9;}
+
+.rodape{
+    background-color: #e9c8c8;
+    text-align: center;
+}
