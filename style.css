@@ -78,3 +78,33 @@ display: inline-block;
 
 
 }
+.topicos {
+    background: #e4baba;
+    text-align: center;
+    padding: 1em 0;
+}
+
+.topicos-titulo {
+    color: #e4e4e4;
+    font-weight: 300;
+    margin-bottom: lem;
+}
+
+.topicos-lista {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.topicos-item {
+    margin: 2em 0.5em;
+    list-style: none;
+}
+
+.topicos-link {
+    color: #0f0f0f;
+    padding: 1em;background-color: #ffffff;
+    text-decoration: none;
+    font-size: 14px ;
+    font-weight: 700;
+}
